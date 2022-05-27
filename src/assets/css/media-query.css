@@ -1,0 +1,21 @@
+/* @media (max-width: 280px) { .telco-page-wrapper{min-height: 650px;} footer{margin-top: 270px;}} */
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px){
+    .telco-page-wrapper{min-height: 850px;} 
+}
+
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px){ 
+    .telco-page-wrapper{min-height: 900px;} 
+}
+
+/* Medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px){
+    .telco-page-wrapper{min-height: 200px;} 
+} 
+
+/* Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px){ 
+    .telco-page-wrapper{min-height: 700px;} 
+}
